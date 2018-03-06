@@ -121,8 +121,8 @@ a:focus, a:hover {
 }
 body {
     padding: 3em 0;
-    /*background: url(../assets/images/bg.jpg); */
-		background-color: indigo;
+    /*background: url("assets/images/bg.jpg"); */
+		background-color: teal;
 	background-attachment:fixed;
 	background-size:cover;
 }
