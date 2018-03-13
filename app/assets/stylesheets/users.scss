@@ -134,6 +134,7 @@ p{
 .register-full {
     width: 70%;
     margin: 4em auto 6em;
+		text-align: justify;
 }
 .register-right {
     background: #FFFFFF;
@@ -339,7 +340,7 @@ select:focus {
     width: 70%;
     margin: 0em auto;
 }
-.logo,.social {
+.logo {
     float: left;
 }
 .logo a{
@@ -731,7 +732,8 @@ span.fa.fa-lock {
 		font-size: 1.8em;
 	}
 	.content3 a.read ,.content3 a{
-		padding: 10px 25px;
+		// padding: 10px 25px;
+		padding: 10px 13px;
 	}
 	.logo span.fa {
 		font-size: 5em;
@@ -914,7 +916,8 @@ span.fa.fa-lock {
 	}
 	.content3 a.read, .content3 a {
 		font-size: 13px;
-		padding: 10px 15px;
+		// padding: 10px 15px;
+		padding: 10px 10px;
 	}
 	.register input[type="text"], .register input[type="email"], .register input[type="password"], .register input[type="tel"] {
 		width: 85%;
